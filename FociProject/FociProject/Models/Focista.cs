@@ -25,6 +25,8 @@ namespace FociProject.Models
             Suly = suly;
             JobbLabas = jobbLabas;
             Klub = klub;
+
+           
         }
 
 

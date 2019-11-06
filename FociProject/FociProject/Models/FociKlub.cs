@@ -20,6 +20,8 @@ namespace FociProject.Models
             Koltsegvetes = koltsegvetes;
             Focistak = new List<Focista>();
 
+
+
         }
 
         
